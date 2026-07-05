@@ -192,7 +192,7 @@ useEffect(() => {
                 <div
   key={`${day}-${period}`}
   style={{
-    border: "1px solid #b35050",
+    border: "1px solid #b9b9b9",
     borderRadius: "8px",
 
     width: "40px",
