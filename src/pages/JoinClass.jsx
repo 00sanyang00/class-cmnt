@@ -105,7 +105,7 @@ function JoinClass({ onBack }) {
             <h2
             style={{
             fontSize: "20px",
-            fontWeight: "500",
+            fontWeight: "700",
             marginBottom: "60px",
             }}
             >들어가기</h2>
